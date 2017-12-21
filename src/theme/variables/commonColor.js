@@ -263,8 +263,6 @@ export default {
   titleFontSize: platform === "ios" ? 17 : 19,
   subTitleFontSize: platform === "ios" ? 12 : 14,
   subtitleColor: "#FFF",
-
-  // New Variable
   titleFontColor: "#FFF",
 
   // Other
